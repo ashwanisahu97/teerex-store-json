@@ -1,0 +1,48 @@
+{
+  "cart": [
+    {
+      "id": 3,
+      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Pink Polo",
+      "type": "Polo",
+      "price": 350,
+      "currency": "INR",
+      "color": "Pink",
+      "gender": "Women",
+      "quantity": 6
+    },
+    {
+      "id": 4,
+      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/hoodie-tshirts.png",
+      "name": "Black Hoodie",
+      "type": "Hoodie",
+      "price": 500,
+      "currency": "INR",
+      "color": "Black",
+      "gender": "Men",
+      "quantity": 2
+    },
+    {
+      "id": 15,
+      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/round-neck-tshirts.png",
+      "name": "Black Round",
+      "type": "Basic",
+      "price": 300,
+      "currency": "INR",
+      "color": "Black",
+      "gender": "Men",
+      "quantity": 7
+    },
+    {
+      "id": 1,
+      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "type": "Polo",
+      "price": 250,
+      "currency": "INR",
+      "color": "Black",
+      "gender": "Men",
+      "quantity": 3
+    }
+  ]
+}
